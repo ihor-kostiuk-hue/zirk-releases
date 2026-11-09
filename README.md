@@ -33,8 +33,7 @@ capture a long page with scrolling, record a short MP4, mark it up and paste it 
 **Updates are automatic.** When a new version is out, the tray panel shows an **Update** button.
 To check right away, open Settings → Updates → Check.
 
-**Requirements**: Windows 10 or 11, 64-bit. Video recording on Windows N / KN editions needs the
-Media Feature Pack (Zirk tells you how to install it).
+**Requirements**: Windows 10 or 11, 64-bit.
 
 **Privacy**: captures and history stay on your computer. The only network request is the update
 check against this repository.
@@ -76,8 +75,7 @@ version and the `zirk.log` file.
 **Оновлюється сам.** Коли вийде нова версія, у панелі трею з'явиться кнопка **«Оновити»**.
 Щоб перевірити одразу, відкрий Налаштування → Оновлення → «Перевірити».
 
-**Вимоги**: Windows 10 або 11, 64-біт. Для запису відео у Windows N / KN потрібен Media Feature
-Pack (Zirk підкаже, як його поставити).
+**Вимоги**: Windows 10 або 11, 64-біт.
 
 **Приватність**: знімки й історія лишаються на твоєму комп'ютері. Єдиний запит у мережу —
 перевірка оновлень у цьому репозиторії.
